@@ -1,4 +1,3 @@
-#to run the program type in the following: python3 Jacob_UrendaGaribay_hw1.py
 year = input("Enter in a year: ")
 isleap = int(year)
 if isleap > 0:
